@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1716349372 source:c:\users\subas\desktop\pingponggame\main.cpp
+	"Game.h"
+
+1716372906 source:c:\users\subas\desktop\pingponggame\ball.cpp
+	"Ball.h"
+	"Globals.h"
+	<cmath>
+	<random>
+	<ctime>
+
+1699659619 c:\users\subas\desktop\pingponggame\ball.h
+	"GameObject.h"
+	"Player.h"
+	"Globals.h"
+	<SDL.h>
+
+1699659619 c:\users\subas\desktop\pingponggame\gameobject.h
+	<SDL.h>
+
+1699659619 c:\users\subas\desktop\pingponggame\player.h
+	"GameObject.h"
+	<SDL.h>
+
+1716396061 c:\users\subas\desktop\pingponggame\globals.h
+
+1716396547 source:c:\users\subas\desktop\pingponggame\game.cpp
+	"Game.h"
+	<iostream>
+	"Globals.h"
+	"Input.h"
+
+1699659619 c:\users\subas\desktop\pingponggame\game.h
+	<SDL.h>
+	"Player.h"
+	"Ball.h"
+	"Score.h"
+
+1716440479 c:\users\subas\desktop\pingponggame\score.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1699659619 c:\users\subas\desktop\pingponggame\input.h
+	<map>
+	<string>
+	<SDL.h>
+
+1716342993 source:c:\users\subas\desktop\pingponggame\gameobject.cpp
+	"GameObject.h"
+	"Globals.h"
+
+1699659619 source:c:\users\subas\desktop\pingponggame\input.cpp
+	"Input.h"
+
+1716304976 source:c:\users\subas\desktop\pingponggame\player.cpp
+	"Player.h"
+	"Globals.h"
+
+1716356355 source:c:\users\subas\desktop\pingponggame\score.cpp
+	"Score.h"
+	<string>
+	"Globals.h"
+
