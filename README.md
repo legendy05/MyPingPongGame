@@ -7,10 +7,10 @@ Install:
 If you satisfy all the requirements ----> Just download all the file then open PingPongGame.cbp to open the project--->After that Build and Run to have fun with your friends and family 
 
 To Play:
-The First player uses W and S 
-The Second player uses keyUP and keyDown 
-To control the paddle-->If one player misses the ball the other player will score 1 point 
-To escape just click the close button on the left uppper corner
+The First player uses W and S / 
+The Second player uses keyUP and keyDown/ 
+To control the paddle-->If one player misses the ball the other player will score 1 point /
+To escape just click the close button on the left uppper corner/
 
 In this game:
 +generate random ball's degree to start
